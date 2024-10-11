@@ -41,12 +41,6 @@ I'm Baptiste and i'm a student at Holberton School Rennes.
 
 ***
 
-### :writing_hand: Blog Posts :
-
-- <a href="https://medium.com/@axel.gore35/what-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-eaace96fe598">What happens when you type ls -l *.c and hit Enter in a Shell ?</a>
-
-***
-
 <h3 align="center">
   ⬇️ Don't hesitate to visit my social networks ⬇️
  </h3>
