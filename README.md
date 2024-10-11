@@ -15,7 +15,7 @@ I'm Baptiste and i'm a student at Holberton School Rennes.
 
 - :I like to explore new things on Windows, or even other programming languages. I like to help others.
 
-- :mailbox: You can find my linkedin here : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/baptiste-rivi%C3%A8re-2152102a5/)
+- :mailbox: You can find my linkedin here : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-rivi%C3%A8re-2152102a5/)
 
 ***
 
