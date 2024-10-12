@@ -42,7 +42,7 @@ I'm Baptiste and i'm a student at Holberton School Rennes.
 ***
 
 <h3 align="center">
-  ⬇️ Don't hesitate to visit my social networks ⬇️
+  ⬇️ Don't hesitate to visit my social networks: ⬇️
  </h3>
  
  <div id="badges" align="center">
