@@ -1,4 +1,4 @@
-<div id="header" align="center">
+7<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5odDYxcDVjbDNtbnRzanNsMmJpM2NhcmJ4MWU2NGtwMjRuczYzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500px"/>
 </div>
 
@@ -42,7 +42,7 @@ I'm Baptiste and i'm a student at Holberton School Rennes.
 ***
 
 <h3 align="center">
-  ⬇️ Don't hesitate to visit my social networks ⬇️
+  ⬇️ Don't hesitate to visit my social networks :  ⬇️
  </h3>
  
  <div id="badges" align="center">
